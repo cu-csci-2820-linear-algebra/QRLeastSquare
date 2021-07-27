@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import unittest
 import numpy as np
-from answers_qr import *
+from qr import *
 
 class TestQR(unittest.TestCase):
     def test_qr_ident(self):
